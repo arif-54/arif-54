@@ -1,61 +1,91 @@
-# 💫 Hi 👋, I'm Arif Hossain
-**A passionate Software Engineer || Web Developer **
+<h1 align="center">Hey there, I'm Arif Hossain 👋</h1>
 
-Email Me 👉 ✉️ **arif_nuxt@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Software+Engineer;Django+%26+DRF+Backend+Developer;DevOps+%7C+Docker+%7C+CI%2FCD;C%2B%2B+%26+Competitive+Programmer" alt="Typing SVG" />
+</p>
 
-- 🔭 **I’m currently working on: Building projects using Python(Django), solving DSA problems using C++, and contributing to open-source.
-- 🌱 **I’m currently learning: Full-Stack Web Development, Competitive Programming, and exploring Machine Learning.
-- 👯 **I’m looking to collaborate on: Open-source projects, competitive programming contests, and web-based apps.
-- 🤔 **I’m looking for help with: Building scalable web applications and improving my algorithmic thinking.
-- 💬 **Ask me about: C++, Data Structures & Algorithms, Web Development, and problem-solving.
----
-## 🚀 Django Projects
-| Project Name | GitHub Link |
-|--------------|-------------|
-| Django Platelet Embody Website | [🔗 View Project](https://github.com/arif-vue/Django-Platelet-Embody-Website) |
-| Music Streaming Service | [🔗 View Project](https://github.com/arif-vue/Music-Streaming-Service) |
-| GoldenCart E-Commerce | [🔗 View Project](https://github.com/arif-vue/GoldenCart-E-Commerce) |
-| Agri Rental BD (Django) | [🔗 View Project](https://github.com/arif-vue/Agri-Rental-BD-Django) |
-| Django + React Collaborating Music System | [🔗 View Project](https://github.com/arif-vue/Django-React-Collaborating-Music-Playing-System) |
-| Django Gadget Specification Website | [🔗 View Project](https://github.com/arif-vue/Django-Gadget-Specification-Website) |
-| Django Real Estate Website | [🔗 View Project](https://github.com/arif-vue/Django-Real-Estate) |
+<p align="center">
+  <a href="mailto:arifemon54@gmail.com"><img src="https://img.shields.io/badge/-arifemon54@gmail.com-1e1e2e?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
+  <a href="https://linkedin.com/in/arif-vue"><img src="https://img.shields.io/badge/-LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+  <a href="https://facebook.com/arif.vue"><img src="https://img.shields.io/badge/-Facebook-1e1e2e?style=for-the-badge&logo=facebook&logoColor=A78BFA" alt="Facebook" /></a>
+  <a href="https://instagram.com/arif_vue"><img src="https://img.shields.io/badge/-Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram" /></a>
+</p>
 
----
+<br />
 
-## 📦 DRF (Django REST Framework)
-- **Complete DRF Guide**: [🔗 Django-Rest-Framework-Complete-DRF](https://github.com/arif-vue/Django-Rest-Framework-Complete-DRF-/tree/master)
+### ⚡ About
 
-## 📘 Data Structures & Algorithms
-- **DSA in C++**: [🔗 DSA-Cpp](https://github.com/arif-vue/DSA-Cpp)
+- 🔭 Building web apps with **Django & DRF** and solving **DSA problems in C++**
+- 🌱 Learning **Full-Stack Development**, **DevOps & Cloud**, and **Machine Learning**
+- 👯 Open to collaborate on **open-source**, **CP contests**, and **web apps**
+- 💬 Ask me about **C++, Data Structures & Algorithms, Django, Docker**
+- 📫 **arifemon54@gmail.com**
 
----
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arif.vue) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arif_vue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-vue) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arif.nuxt@gmail.com) 
+<br />
 
-<!-- Snake Game Repo View -->
+### 🧰 Toolbox
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+**Languages**
+<br />
+![C](https://img.shields.io/badge/C-1e1e2e?style=flat-square&logo=c&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/C++-1e1e2e?style=flat-square&logo=cplusplus&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=A78BFA)
 
+**Backend & Databases**
+<br />
+![Django](https://img.shields.io/badge/Django-1e1e2e?style=flat-square&logo=django&logoColor=A78BFA)
+![DRF](https://img.shields.io/badge/Django_REST-1e1e2e?style=flat-square&logo=django&logoColor=A78BFA)
+![Socket.io](https://img.shields.io/badge/Socket.io-1e1e2e?style=flat-square&logo=socket.io&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=flat-square&logo=mysql&logoColor=A78BFA)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e2e?style=flat-square&logo=bootstrap&logoColor=A78BFA)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arif-vue&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arif-vue&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-vue&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**DevOps & Cloud**
+<br />
+![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=A78BFA)
+![Bash](https://img.shields.io/badge/Bash-1e1e2e?style=flat-square&logo=gnubash&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=A78BFA)
+![Nginx](https://img.shields.io/badge/Nginx-1e1e2e?style=flat-square&logo=nginx&logoColor=A78BFA)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=A78BFA)
+![AWS](https://img.shields.io/badge/☁️_AWS-1e1e2e?style=flat-square)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=A78BFA)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arif-vue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📌 Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arif-vue&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| | Project | Built with |
+| :-: | :-- | :-- |
+| 🛒 | [**GoldenCart E-Commerce**](https://github.com/arif-54/GoldenCart-E-Commerce) | Django |
+| 🎵 | [**Music Streaming Service**](https://github.com/arif-54/Music-Streaming-Service) | Django |
+| 🎧 | [**Collaborative Music Playing System**](https://github.com/arif-54/Django-React-Collaborating-Music-Playing-System) | Django · React |
+| 🏠 | [**Real Estate Website**](https://github.com/arif-54/Django-Real-Estate) | Django |
+| 🩸 | [**Platelet Embody Website**](https://github.com/arif-54/Django-Platelet-Embody-Website) | Django |
+| 🚜 | [**Agri Rental BD**](https://github.com/arif-54/Agri-Rental-BD-Django) | Django |
+| 📱 | [**Gadget Specification Website**](https://github.com/arif-54/Django-Gadget-Specification-Website) | Django |
+| 📦 | [**Complete DRF Guide**](https://github.com/arif-54/Django-Rest-Framework-Complete-DRF-/tree/master) | Django REST Framework |
+| 📘 | [**DSA in C++**](https://github.com/arif-54/DSA-Cpp) | C++ |
 
----
-[![](https://visitcount.itsvg.in/api?id=arif-vue&icon=0&color=0)](https://visitcount.itsvg.in)
+<br />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arif-54&theme=dracula" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arif-54&theme=dracula" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arif-54&theme=dracula" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arif-54&theme=dracula&hide_border=true" alt="GitHub streak" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arif-54&style=flat-square&color=A78BFA&label=profile+views" alt="Profile views" />
+</p>
