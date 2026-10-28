@@ -1,6 +1,6 @@
 <!-- ==================== HERO ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:2a0a5e,75:7f5af0,100:00f0ff&height=260&section=header&text=ARIF%20HOSSAIN&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20DevOps&descSize=18&descAlignY=62" width="100%" alt="Arif Hossain" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:2a0a5e,70:7f5af0,100:00f0ff&height=240&section=header&text=ARIF%20HOSSAIN&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20DevOps&descSize=18&descAlignY=56" width="100%" alt="Arif Hossain" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <!-- ==================== ABOUT ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f0ff,50:7f5af0,100:fe428e&height=70&text=%3C%2F%3E%20About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f0ff,50:7f5af0,100:fe428e&height=70&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%" alt="About Me" />
 </p>
 
 ```yaml
@@ -53,12 +53,12 @@ $ status
     <td>
       <img src="https://skillicons.dev/icons?i=django,redis&theme=dark" alt="Backend" />
       <br/>
-      <img src="https://img.shields.io/badge/Django_REST-0d0221?style=flat-square&logo=django&logoColor=00f0ff" />
-      <img src="https://img.shields.io/badge/Channels-0d0221?style=flat-square&logo=socketdotio&logoColor=00f0ff" />
-      <img src="https://img.shields.io/badge/Celery-0d0221?style=flat-square&logo=celery&logoColor=00f0ff" />
-      <img src="https://img.shields.io/badge/Gunicorn-0d0221?style=flat-square&logo=gunicorn&logoColor=00f0ff" />
-      <img src="https://img.shields.io/badge/JWT-0d0221?style=flat-square&logo=jsonwebtokens&logoColor=00f0ff" />
-      <img src="https://img.shields.io/badge/Stripe-0d0221?style=flat-square&logo=stripe&logoColor=00f0ff" />
+      <img src="https://img.shields.io/badge/Django_REST-0891b2?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Channels-0891b2?style=for-the-badge&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Celery-0891b2?style=for-the-badge&logo=celery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gunicorn-0891b2?style=for-the-badge&logo=gunicorn&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-0891b2?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-0891b2?style=for-the-badge&logo=stripe&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -74,20 +74,20 @@ $ status
     <td>
       <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,aws,githubactions&theme=dark" alt="DevOps" />
       <br/>
-      <img src="https://img.shields.io/badge/Docker_Compose-0d0221?style=flat-square&logo=docker&logoColor=fe428e" />
-      <img src="https://img.shields.io/badge/AWS_S3-0d0221?style=flat-square" />
-      <img src="https://img.shields.io/badge/CI%2FCD-0d0221?style=flat-square&logo=githubactions&logoColor=fe428e" />
-      <img src="https://img.shields.io/badge/Sentry-0d0221?style=flat-square&logo=sentry&logoColor=fe428e" />
-      <img src="https://img.shields.io/badge/Uvicorn-0d0221?style=flat-square" />
+      <img src="https://img.shields.io/badge/Docker_Compose-fe428e?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_S3-7f5af0?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/CI%2FCD-fe428e?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sentry-fe428e?style=for-the-badge&logo=sentry&logoColor=white" />
+      <img src="https://img.shields.io/badge/Uvicorn-7f5af0?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>🤖 AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/GPT--4o-0d0221?style=flat-square" />
-      <img src="https://img.shields.io/badge/Gemini-0d0221?style=flat-square&logo=googlegemini&logoColor=7f5af0" />
-      <img src="https://img.shields.io/badge/Stability_AI-0d0221?style=flat-square" />
-      <img src="https://img.shields.io/badge/ElevenLabs-0d0221?style=flat-square&logo=elevenlabs&logoColor=7f5af0" />
+      <img src="https://img.shields.io/badge/GPT--4o-7f5af0?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Gemini-7f5af0?style=for-the-badge&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stability_AI-7f5af0?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/ElevenLabs-7f5af0?style=for-the-badge&logo=elevenlabs&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -112,18 +112,18 @@ $ status
         ✦ WebSocket chat, Firebase push, Google &amp; Apple sign-in, Stripe payments, AWS S3 uploads
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Django-0d0221?style=flat-square&logo=django&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/DRF-0d0221?style=flat-square&logo=django&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/Channels-0d0221?style=flat-square&logo=socketdotio&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0d0221?style=flat-square&logo=postgresql&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/Redis-0d0221?style=flat-square&logo=redis&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/Celery-0d0221?style=flat-square&logo=celery&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/Docker-0d0221?style=flat-square&logo=docker&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/Nginx-0d0221?style=flat-square&logo=nginx&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/Gemini-0d0221?style=flat-square&logo=googlegemini&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/ElevenLabs-0d0221?style=flat-square&logo=elevenlabs&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/Stripe-0d0221?style=flat-square&logo=stripe&logoColor=fe428e" />
-        <img src="https://img.shields.io/badge/Firebase-0d0221?style=flat-square&logo=firebase&logoColor=fe428e" />
+        <img src="https://img.shields.io/badge/Django-fe428e?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/DRF-fe428e?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Channels-fe428e?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-fe428e?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-fe428e?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Celery-fe428e?style=flat-square&logo=celery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-fe428e?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-fe428e?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-fe428e?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/ElevenLabs-fe428e?style=flat-square&logo=elevenlabs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-fe428e?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-fe428e?style=flat-square&logo=firebase&logoColor=white" />
       </p>
       <a href="https://risus.io"><img src="https://img.shields.io/badge/Live-fe428e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
     </td>
@@ -133,12 +133,12 @@ $ status
       <h3>✍️ AI Essay Revision</h3>
       <p>Full-stack AI platform where students get GPT-4o feedback on grammar, clarity, vocabulary, style, and argument strength, and teachers review in bulk with class analytics.</p>
       <p>
-        <img src="https://img.shields.io/badge/Django-0d0221?style=flat-square&logo=django&logoColor=7f5af0" />
-        <img src="https://img.shields.io/badge/React-0d0221?style=flat-square&logo=react&logoColor=7f5af0" />
-        <img src="https://img.shields.io/badge/Redux-0d0221?style=flat-square&logo=redux&logoColor=7f5af0" />
-        <img src="https://img.shields.io/badge/GPT--4o-0d0221?style=flat-square" />
-        <img src="https://img.shields.io/badge/Celery-0d0221?style=flat-square&logo=celery&logoColor=7f5af0" />
-        <img src="https://img.shields.io/badge/Redis-0d0221?style=flat-square&logo=redis&logoColor=7f5af0" />
+        <img src="https://img.shields.io/badge/Django-7f5af0?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-7f5af0?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux-7f5af0?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPT--4o-7f5af0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Celery-7f5af0?style=flat-square&logo=celery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-7f5af0?style=flat-square&logo=redis&logoColor=white" />
       </p>
       <a href="https://aiessayrevision.com"><img src="https://img.shields.io/badge/Live-fe428e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
       <a href="https://github.com/arif-54/AI_ESSAY_REVISE"><img src="https://img.shields.io/badge/GitHub-7f5af0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -147,12 +147,12 @@ $ status
       <h3>🛍️ Auto-Market</h3>
       <p>Turns product photos into optimized eBay &amp; Amazon listings: AI condition analysis, defect detection, smart pricing, and real-time price sync from one dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/Django-0d0221?style=flat-square&logo=django&logoColor=7f5af0" />
-        <img src="https://img.shields.io/badge/Next.js-0d0221?style=flat-square&logo=nextdotjs&logoColor=7f5af0" />
-        <img src="https://img.shields.io/badge/GPT--4-0d0221?style=flat-square" />
-        <img src="https://img.shields.io/badge/eBay_API-0d0221?style=flat-square&logo=ebay&logoColor=7f5af0" />
-        <img src="https://img.shields.io/badge/Amazon_SP--API-0d0221?style=flat-square" />
-        <img src="https://img.shields.io/badge/Celery-0d0221?style=flat-square&logo=celery&logoColor=7f5af0" />
+        <img src="https://img.shields.io/badge/Django-7f5af0?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-7f5af0?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPT--4-7f5af0?style=flat-square" />
+        <img src="https://img.shields.io/badge/eBay_API-7f5af0?style=flat-square&logo=ebay&logoColor=white" />
+        <img src="https://img.shields.io/badge/Amazon_SP--API-7f5af0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Celery-7f5af0?style=flat-square&logo=celery&logoColor=white" />
       </p>
       <a href="https://bluberryhq.com/"><img src="https://img.shields.io/badge/Live-fe428e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
       <a href="https://github.com/arif-54/Bluberry-Backend"><img src="https://img.shields.io/badge/GitHub-7f5af0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -163,11 +163,11 @@ $ status
       <h3>🌊 Bridging Ri Majel</h3>
       <p>English–Marshallese translation mobile app using database lookup, fuzzy matching, and a Gemini AI fallback, with OTP/Google/Apple auth, favorites, and subscriptions.</p>
       <p>
-        <img src="https://img.shields.io/badge/Django-0d0221?style=flat-square&logo=django&logoColor=00f0ff" />
-        <img src="https://img.shields.io/badge/Flutter-0d0221?style=flat-square&logo=flutter&logoColor=00f0ff" />
-        <img src="https://img.shields.io/badge/Next.js-0d0221?style=flat-square&logo=nextdotjs&logoColor=00f0ff" />
-        <img src="https://img.shields.io/badge/Gemini-0d0221?style=flat-square&logo=googlegemini&logoColor=00f0ff" />
-        <img src="https://img.shields.io/badge/RevenueCat-0d0221?style=flat-square&logo=revenuecat&logoColor=00f0ff" />
+        <img src="https://img.shields.io/badge/Django-0891b2?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-0891b2?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-0891b2?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-0891b2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/RevenueCat-0891b2?style=flat-square&logo=revenuecat&logoColor=white" />
       </p>
       <a href="https://apps.apple.com/us/app/bridging-ri-majel/id6759244535"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
       <a href="https://play.google.com/store/apps/details?id=com.linguistic.bridging"><img src="https://img.shields.io/badge/Google_Play-01875f?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
@@ -176,12 +176,12 @@ $ status
       <h3>⚡ BoltCore</h3>
       <p>Production-grade e-commerce backend: auth, product catalog, order lifecycle, payments &amp; refunds, notifications, and admin analytics, with N+1-free queries and async processing.</p>
       <p>
-        <img src="https://img.shields.io/badge/Django-0d0221?style=flat-square&logo=django&logoColor=00f0ff" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0d0221?style=flat-square&logo=postgresql&logoColor=00f0ff" />
-        <img src="https://img.shields.io/badge/Redis-0d0221?style=flat-square&logo=redis&logoColor=00f0ff" />
-        <img src="https://img.shields.io/badge/Celery-0d0221?style=flat-square&logo=celery&logoColor=00f0ff" />
-        <img src="https://img.shields.io/badge/Stripe-0d0221?style=flat-square&logo=stripe&logoColor=00f0ff" />
-        <img src="https://img.shields.io/badge/Docker-0d0221?style=flat-square&logo=docker&logoColor=00f0ff" />
+        <img src="https://img.shields.io/badge/Django-0891b2?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0891b2?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-0891b2?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Celery-0891b2?style=flat-square&logo=celery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-0891b2?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-0891b2?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <a href="https://github.com/arif-54/boltcore"><img src="https://img.shields.io/badge/GitHub-7f5af0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     </td>
@@ -198,49 +198,49 @@ $ status
     <td width="50%" valign="top">
       <b>🩸 Platelet Embody</b><br/>
       <sub>Connects platelet donors and patients across Bangladesh</sub><br/><br/>
-      <a href="https://github.com/arif-54/Django-Platelet-Embody-Website"><img src="https://img.shields.io/badge/View_Project-0d0221?style=flat-square&logo=github&logoColor=fe428e" /></a>
+      <a href="https://github.com/arif-54/Django-Platelet-Embody-Website"><img src="https://img.shields.io/badge/View_Project-fe428e?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <b>🎵 Ryzic Mix — Music Streaming</b><br/>
       <sub>Free &amp; premium streaming with favorites, history, and Stripe</sub><br/><br/>
-      <a href="https://github.com/arif-54/Music-Streaming-Service"><img src="https://img.shields.io/badge/View_Project-0d0221?style=flat-square&logo=github&logoColor=fe428e" /></a>
+      <a href="https://github.com/arif-54/Music-Streaming-Service"><img src="https://img.shields.io/badge/View_Project-fe428e?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <b>🛒 GoldenCart E-Commerce</b><br/>
       <sub>Online store with cart and checkout</sub><br/><br/>
-      <a href="https://github.com/arif-54/GoldenCart-E-Commerce"><img src="https://img.shields.io/badge/View_Project-0d0221?style=flat-square&logo=github&logoColor=7f5af0" /></a>
+      <a href="https://github.com/arif-54/GoldenCart-E-Commerce"><img src="https://img.shields.io/badge/View_Project-7f5af0?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td valign="top">
       <b>🚜 Agri Rental BD</b><br/>
       <sub>Agricultural equipment rental platform</sub><br/><br/>
-      <a href="https://github.com/arif-54/Agri-Rental-BD-Django"><img src="https://img.shields.io/badge/View_Project-0d0221?style=flat-square&logo=github&logoColor=7f5af0" /></a>
+      <a href="https://github.com/arif-54/Agri-Rental-BD-Django"><img src="https://img.shields.io/badge/View_Project-7f5af0?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <b>🎧 Collaborative Music Player</b><br/>
       <sub>Listen together in shared rooms — Django + React</sub><br/><br/>
-      <a href="https://github.com/arif-54/Django-React-Collaborating-Music-Playing-System"><img src="https://img.shields.io/badge/View_Project-0d0221?style=flat-square&logo=github&logoColor=00f0ff" /></a>
+      <a href="https://github.com/arif-54/Django-React-Collaborating-Music-Playing-System"><img src="https://img.shields.io/badge/View_Project-0891b2?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td valign="top">
       <b>📱 Gadget Specifications</b><br/>
       <sub>Browse and compare gadget specs</sub><br/><br/>
-      <a href="https://github.com/arif-54/Django-Gadget-Specification-Website"><img src="https://img.shields.io/badge/View_Project-0d0221?style=flat-square&logo=github&logoColor=00f0ff" /></a>
+      <a href="https://github.com/arif-54/Django-Gadget-Specification-Website"><img src="https://img.shields.io/badge/View_Project-0891b2?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <b>🏠 Real Estate Website</b> &nbsp;·&nbsp; <sub>Property listings and search</sub> &nbsp;
-      <a href="https://github.com/arif-54/Django-Real-Estate"><img src="https://img.shields.io/badge/View_Project-0d0221?style=flat-square&logo=github&logoColor=fe428e" /></a>
+      <a href="https://github.com/arif-54/Django-Real-Estate"><img src="https://img.shields.io/badge/View_Project-fe428e?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
 <!-- ==================== DRF + DSA ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f0ff,100:7f5af0&height=70&text=Learn%20%26%20Build&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%" alt="Learn & Build" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f0ff,100:7f5af0&height=70&text=Learn%20%26amp%3B%20Build&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%" alt="Learn & Build" />
 </p>
 
 <table>
@@ -249,16 +249,16 @@ $ status
       <h1>📦</h1>
       <h3>Complete DRF Guide</h3>
       <p><sub>Django REST Framework from basics to advanced — serializers, views, auth, permissions, and more</sub></p>
-      <img src="https://img.shields.io/badge/Django_REST-0d0221?style=flat-square&logo=django&logoColor=fe428e" />
-      <img src="https://img.shields.io/badge/Python-0d0221?style=flat-square&logo=python&logoColor=fe428e" /><br/><br/>
+      <img src="https://img.shields.io/badge/Django_REST-fe428e?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-fe428e?style=flat-square&logo=python&logoColor=white" /><br/><br/>
       <a href="https://github.com/arif-54/Django-Rest-Framework-Complete-DRF-/tree/master"><img src="https://img.shields.io/badge/Explore_Guide-fe428e?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" align="center" valign="top">
       <h1>🧠</h1>
       <h3>DSA in C++</h3>
       <p><sub>Data structures &amp; algorithms implemented and practiced in C++ for problem solving</sub></p>
-      <img src="https://img.shields.io/badge/C++-0d0221?style=flat-square&logo=cplusplus&logoColor=00f0ff" />
-      <img src="https://img.shields.io/badge/Algorithms-0d0221?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/C++-0891b2?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Algorithms-7f5af0?style=flat-square" /><br/><br/>
       <a href="https://github.com/arif-54/DSA-Cpp"><img src="https://img.shields.io/badge/Explore_DSA-00f0ff?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
